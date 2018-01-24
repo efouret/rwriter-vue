@@ -1,5 +1,7 @@
 # rwriter-vue
 
+[![Travis Build Status][build-badge]][build]
+
 > A tool to write... anything, powered by Vue.js.
 
 ## Build Setup
@@ -28,3 +30,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+[build-badge]: https://travis-ci.org/efouret/rwriter-vue.svg?branch=master
+[build]: https://travis-ci.org/efouret/rwriter-vue
