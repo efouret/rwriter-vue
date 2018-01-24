@@ -1,6 +1,6 @@
 # rwriter-vue
 
-> A Vue.js project
+> A tool to write... anything, powered by Vue.js.
 
 ## Build Setup
 
